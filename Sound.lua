@@ -1413,7 +1413,7 @@ ti(cons, mouse.Button1Down:connect(function()
 					trace.CFrame = CFrame.new(o1.Smg.SMGPipeH.CFrame.p,pos)*CFrame.new(0,0,-((o1.Smg.SMGPipeH.CFrame.p - pos).Magnitude/2))
 					if PlayAudios then
     					local s = Instance.new("Sound",o1.Smg.SMGPipeH)
-    					s.SoundId = "rbxassetid://162670150"
+    					s.SoundId = "rbxassetid://131257506"
     					s.Volume = 1
     					s:Play()
     					spawn(function()
