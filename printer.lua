@@ -1,4 +1,4 @@
-print("|itszw--------------Ufo------Fe--------------itszw#2241---------------------")
+print("|------------------Ufo------Fe----------------------------------------------")
 print("|                 Script Yuklendi                                         --")
 print("|FE UFO script made by itszw#2241 // script itszw#2241 Tarafindan Yapim --")
 print("|required hat // istenen hat: roblox.com/catalog/8151404994 --")
