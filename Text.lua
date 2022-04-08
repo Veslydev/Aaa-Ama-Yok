@@ -1224,7 +1224,7 @@ o109.Position = Vector3.new(12.0515394, 40.7946739, -70.0561295)
 o1.PrimaryPart = o109
 if PlayAudios then
 local s = Instance.new("Sound")
-s.SoundId = "rbxassetid://162670150"
+s.SoundId = "162670113"
 s.Parent = o1.PrimaryPart
 s.Pitch = 1
 s.Volume = 2
@@ -1242,7 +1242,7 @@ seat.CanCollide = false
 
 local soisoi = Instance.new("Sound",o1.Controller)
 if PlayAudios then
-soisoi.SoundId = "rbxassetid://162670150"
+soisoi.SoundId = "162670113"
 soisoi.Volume = 0.3
 soisoi.Pitch = 3
 soisoi.Looped = true
