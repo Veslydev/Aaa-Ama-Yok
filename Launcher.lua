@@ -5,3 +5,5 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yo
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/Soundama.lua"))() -- Ufo Only Sound Open // Ufo Sadece Sound True
 
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/OnlyAma.lua"))() -- Ufo All False // Ufo Hepsi False
+
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/Kaba.lua"))()  -- Gui EZ :D
