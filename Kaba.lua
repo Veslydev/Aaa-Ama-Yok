@@ -43,14 +43,20 @@ end)
 venyx:SelectPage(venyx.pages[1], true)
 local page4 = venyx:addPage("Esx Team Using But Not Owned", 6022668888)
 local Adminsscript = page4:addSection("Admins")
-FunnyTroll:addButton("ifyield", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
-end)
 local Finger = page4:addSection("Finger")
 local FunnyTroll = page4:addSection("Funny / Troll / Boombox")
+
 FunnyTroll:addButton("Vets Hub", function()
     loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/3JBH/Boombox-Scripts/main/Verts-Hub/Verts-Hub-Source.lua"))()
 end)
+Finger:addButton("Finger R15", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/finger.lua'))()
+end)
+
+Adminsscript:addButton("ifyield", function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
+
 
 
 
