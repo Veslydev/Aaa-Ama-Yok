@@ -35,6 +35,12 @@ game.StarterGui:SetCore("ChatMakeSystemMessage", {
                Color = Color3.fromRGB(161, 91, 228);
                TextSize = 16
            })
+wait(1)
+game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "PastebinProxy | Pastebin'i Pastebinp Yapar";
+               Color = Color3.fromRGB(161, 91, 228);
+               TextSize = 16
+           })
            
 wait(1)
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
