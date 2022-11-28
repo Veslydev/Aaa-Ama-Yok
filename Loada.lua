@@ -2,6 +2,8 @@ loadstring(game:HttpGetAsync("https://pastebinp.com/raw/e8NK6hE1"))()
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/savecpugpu"))()
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/spy"))()
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/Anims.lua"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/ipspoof.lua"))()
+
 
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
                Text = "Hoşgeldin, " .. game.Players.LocalPlayer.Name .. "! ";
@@ -36,7 +38,7 @@ game.StarterGui:SetCore("ChatMakeSystemMessage", {
            })
 wait(1)
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
-               Text = "FPS Unlocker | 120 Fps Sabitler";
+               Text = "FPS Unlocker CPU-GPU Saver | 165 Fps Sabitler";
                Color = Color3.fromRGB(161, 91, 228);
                TextSize = 16
            })
@@ -50,6 +52,13 @@ game.StarterGui:SetCore("ChatMakeSystemMessage", {
 wait(1)
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
                Text = "Chat Spy | Spys Chat";
+               Color = Color3.fromRGB(161, 91, 228);
+               TextSize = 16
+               
+           })
+wait(1)
+game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Ip Spoof | 133.7.1337.69";
                Color = Color3.fromRGB(161, 91, 228);
                TextSize = 16
                
