@@ -1,4 +1,5 @@
 loadstring(game:HttpGetAsync("https://pastebinp.com/raw/e8NK6hE1"))()
+workspace.CurrentCamera.FieldOfView = 90
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/savecpugpu"))()
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/spy"))()
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/Anims.lua"))()
@@ -50,6 +51,13 @@ game.StarterGui:SetCore("ChatMakeSystemMessage", {
 wait(1)
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
                Text = "Chat Spy | Spys Chat";
+               Color = Color3.fromRGB(161, 91, 228);
+               TextSize = 16
+               
+           })
+           wait(1)
+game.StarterGui:SetCore("ChatMakeSystemMessage", {
+               Text = "Fov | Fov = 90";
                Color = Color3.fromRGB(161, 91, 228);
                TextSize = 16
                
