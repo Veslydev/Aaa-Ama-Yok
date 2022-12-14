@@ -2,7 +2,6 @@ workspace.CurrentCamera.FieldOfView = 90
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/savecpugpu"))()
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/spy"))()
 loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/Anims.lua"))()
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/itszw/Aaa-Ama-Yok/main/akick.lua"))()
 
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
                Text = "Hoşgeldin, " .. game.Players.LocalPlayer.Name .. "! ";
